@@ -1,4 +1,4 @@
-### Hi there 👋
+### KIM NA YEON 👋
 
 <!--
 **eoyan/eoyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
