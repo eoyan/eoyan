@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoyan&show_icons=true&theme=Dark)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/nayeon1031/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayeon1031)](https://solved.ac/nayeon1031/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
