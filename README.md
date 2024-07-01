@@ -38,8 +38,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179486"
-    width="200"
-    height="100"
+    width="100"
+    height="600"
   />
 </a>
 </p>
