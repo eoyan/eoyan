@@ -31,7 +31,7 @@ Here are some ideas to get you started:-->
   />
 </a>
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> 
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/> <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat-square&logo=Unity&logoColor=black"/> 
 
   
   
