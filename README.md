@@ -29,28 +29,32 @@
   />
 </a>
 
-
+<dt>
 <h4> Stacks </h4>
+</dt>
 
 
 
+<dd><img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/> <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat-square&logo=Unity&logoColor=black"/></dd>
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/> <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat-square&logo=Unity&logoColor=black"/> 
-
-
+<dt>
 <h4>  Solved.ac </h4>
+</dt>
 
-
-
+<dd>
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayeon1031)](https://solved.ac/nayeon1031/)
 
+</dd>
 
+<dt>
 <h4>  GitHub stats  </h4>
+</dt>
 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoyan&show_icons=true&theme=react)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoyan&show_icons=true&theme=react)</dd>
 
 
 
