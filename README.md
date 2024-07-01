@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=84CEFF&height=50&section=header&text=NAYEON%20KIM&fontSize=30&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=84CEFF&height=100&section=header&text=🐱%20Nayeon&fontSize=30&fontColor=363636" />
 
 
 </h1>
