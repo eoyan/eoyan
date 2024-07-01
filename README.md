@@ -43,7 +43,7 @@
 <br>
 <br>
 <br>
-<h2>  Solved.ac </h2>
+<h4>  Solved.ac </h4>
 <br>
 <br>
 <br>
@@ -53,7 +53,7 @@
 <br>
 <br>
 <br>
-<h2>  GitHub stats  </h2>
+<h4>  GitHub stats  </h4>
 <br>
 <br>
 <br>
