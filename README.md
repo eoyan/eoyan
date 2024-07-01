@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<h1>KIM NA YEON ヾ(•ω•`)o <br>
+<h1>KIM NA YEON ヾ(•ω•`)o <br><br>
 
 <a href="https://github.com/devxb/gitanimals">
   <img
@@ -26,8 +26,7 @@
     height="100"
   />
 </a>
-
-<br><br></h1>
+</h1>
 
 
 
