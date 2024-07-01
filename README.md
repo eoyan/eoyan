@@ -24,6 +24,7 @@
 
 
 
+<hr>
 
 <p>
 <a href="https://github.com/devxb/gitanimals">
