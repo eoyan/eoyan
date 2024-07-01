@@ -31,7 +31,7 @@
 
 <br>
 <br>
-<h4> Stacks </h4>
+<h4> ** Stacks ** </h4>
 
 
 
@@ -40,7 +40,7 @@
 
 <br>
 <br>
-<h4>  Solved.ac </h4>
+<h4> ** Solved.ac ** </h4>
 
 
 
@@ -51,7 +51,7 @@
 
 <br>
 <br>
-<h4>  GitHub stats  </h4>
+<h4> ** GitHub stats ** </h4>
 
 
 
