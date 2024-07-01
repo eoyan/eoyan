@@ -6,11 +6,19 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179491"
-    width="800"
+    width="100"
     height="50"
   />
 </a>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179486"
+    width="100"
+    height=50"
+  />
+</a>
+  
 <h5> ˏ 𓏧 𓏲 𓏲 𓏲 𓋒 𓏲 𓏲 𓏲 𓏲 𓏧   HITS  ˏ 𓏧 𓏲 𓏲 𓏲 𓋒 𓏲 𓏲 𓏲 𓏲 𓏧 ˎ </h5><br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2353DACD&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
