@@ -5,14 +5,7 @@
 
 
 <h5> (¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·  HITS  ·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯) </h5><br><br>
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179486"
-    width="100"
-    height="600"
-  />
-</a>
-</p>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2353DACD&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h5> (¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·  Stacks  ·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯) </h5><br><br>
@@ -37,7 +30,7 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179491"
-    width="200"
+    width="100"
     height="100"
   />
 </a>
@@ -46,7 +39,7 @@
   <img
     src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179486"
     width="100"
-    height="600"
+    height="100"
   />
 </a>
 </p>
