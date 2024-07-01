@@ -19,7 +19,7 @@ Here are some ideas to get you started:-->
   <img
     src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179491"
     width="600"
-    height="120"
+    height="20"
   />
 </a>
   
