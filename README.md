@@ -56,7 +56,6 @@
 <h4> ** GitHub stats ** </h4>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoyan&show_icons=true&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoyan](https://github.com/eoyan/github-readme-stats)
 
 
 
