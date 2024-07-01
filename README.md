@@ -1,5 +1,30 @@
 <div align="center">
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179491"
+    width="250"
+    height="100"
+  />
+</a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179486"
+    width="300"
+    height=100"
+  />
+</a>
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/eoyan?pet-id=594904605106400725"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 
 
@@ -32,31 +57,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoyan&show_icons=true&theme=react)</dd>
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179491"
-    width="250"
-    height="100"
-  />
-</a>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179486"
-    width="300"
-    height=100"
-  />
-</a>
-
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/eoyan?pet-id=594904605106400725"
-    width="600"
-    height="120"
-  />
-</a>
-  
 
 
 
