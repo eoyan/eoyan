@@ -9,7 +9,7 @@
   <img
     src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179491"
     width="800"
-    height="100"
+    height="50"
   />
 </a>
 
@@ -20,7 +20,7 @@
   <img
     src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179491"
     width="800"
-    height="100"
+    height="50"
   />
 </a>
 
