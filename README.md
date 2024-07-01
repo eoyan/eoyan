@@ -35,8 +35,10 @@
 <h4> ** Stacks ** </h4>
 
 
-| <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>   | Learned |
-| <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/><img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat-square&logo=Unity&logoColor=black"/>  | Projects |
+
+|:---:|:---:|
+|LEARNED|<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> |
+|PROJECTS|<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/><br><img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat-square&logo=Unity&logoColor=black"/> |
 
 
 
