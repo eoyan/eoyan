@@ -47,7 +47,7 @@
 <br>
 <h4> ** Solved.ac ** </h4>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayeon1031)](https://solved.ac/nayeon1031/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayeon1031)](https://solved.ac/nayeon1031/)   <img src="http://mazandi.herokuapp.com/api?handle={nayeon1031}&theme=cool"/>
 
 
 
