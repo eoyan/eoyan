@@ -2,7 +2,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179491"
+    src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179491?contribution-view=false"
     width="250"
     height="100"
   />
@@ -10,7 +10,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179486"
+    src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179486/contribution-view=false"
     width="300"
     height=100"
   />
@@ -19,7 +19,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/eoyan?pet-id=594904605106400725"
+    src="https://render.gitanimals.org/lines/eoyan?pet-id=594904605106400725/contribution-view=false"
     width="600"
     height="120"
   />
