@@ -5,6 +5,7 @@
     src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179491"
     width="250"
     height="100"
+    contribution-view=false
   />
 </a>
 
@@ -12,7 +13,9 @@
   <img
     src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179486"
     width="300"
-    height=100"
+    height="100"
+    contribution-view=false
+  
   />
 </a>
 
@@ -22,6 +25,7 @@
     src="https://render.gitanimals.org/lines/eoyan?pet-id=594904605106400725"
     width="600"
     height="120"
+    contribution-view=false
   />
 </a>
   
