@@ -3,12 +3,10 @@
 
 <h1>KIM NA YEON ヾ(•ω•`)o <br>
 
-<br><br></h1>
-
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179491"
-    width="200"
+    width="250"
     height="100"
   />
 </a>
@@ -24,10 +22,14 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179491"
-    width="200"
+    width="250"
     height="100"
   />
 </a>
+
+<br><br></h1>
+
+
 
 <br>
 <br>
