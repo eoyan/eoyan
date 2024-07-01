@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=84CEFF&height=300&section=header&textNAYEON&fontSize=90" />
-<h1>KIM NA YEON ヾ(•ω•`)o <br><br>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=84CEFF&height=300&section=header&text=NAYEON&fontSize=90" />
+
 
 </h1>
 
