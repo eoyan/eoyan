@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=84CEFF&height=300&section=header&text=KIM NA YEON%20ヾ(•ω•`)o &fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=84CEFF&height=300&section=header&textNAYEON&fontSize=90" />
 <h1>KIM NA YEON ヾ(•ω•`)o <br><br>
 
 </h1>
