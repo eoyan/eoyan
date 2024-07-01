@@ -7,9 +7,13 @@
 
 Here are some ideas to get you started:-->
 
-<h6> ( ´͈ ꇴ  `͈)੭⁾⁾·°˖ᔆᵘᵗᵉᵏⁱ✧˖° ( ´͈ ꇴ  `͈)੭⁾⁾·°˖ᔆᵘᵗᵉᵏⁱ✧˖° ( ´͈ ꇴ  `͈)੭⁾⁾·°˖ᔆᵘᵗᵉᵏⁱ✧˖° ( ´͈ ꇴ  `͈)੭⁾⁾·°˖ᔆᵘᵗᵉᵏⁱ✧˖° </h6>
+<h6> (¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.· GitHub stats ·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯) </h6>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoyan&show_icons=true&theme=react)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayeon1031)](https://solved.ac/nayeon1031/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoyan&show_icons=true&theme=react)  
+
+<h6> (¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·  Solved.ac  ·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯) </h6>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayeon1031)](https://solved.ac/nayeon1031/)
 
 
 
@@ -33,7 +37,7 @@ Here are some ideas to get you started:-->
   />
 </a>
 
-<h6> ( ´͈ ꇴ  `͈)੭⁾⁾·°˖ᔆᵘᵗᵉᵏⁱ✧˖° ( ´͈ ꇴ  `͈)੭⁾⁾·°˖ᔆᵘᵗᵉᵏⁱ✧˖° ( ´͈ ꇴ  `͈)੭⁾⁾·°˖ᔆᵘᵗᵉᵏⁱ✧˖° ( ´͈ ꇴ  `͈)੭⁾⁾·°˖ᔆᵘᵗᵉᵏⁱ✧˖° </h6>
+<h6> (¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·(¯`·._.·  Stacks  ·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯)·._.·´¯) </h6>
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/> <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat-square&logo=Unity&logoColor=black"/> 
 
