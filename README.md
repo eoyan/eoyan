@@ -32,17 +32,6 @@
 <br>
 <br>
 <br>
-<h2>  HITS  </h2>
-<br>
-<br>
-<br>
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2353DACD&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<br>
-<br>
-<br>
 <h2> Stacks </h2>
 <br>
 <br>
