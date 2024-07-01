@@ -47,7 +47,7 @@
 <br>
 <h4> ** Solved.ac ** </h4>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayeon1031)](https://solved.ac/nayeon1031/)   <img src="http://mazandi.herokuapp.com/api?handle=nayeon1031&theme=cool"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayeon1031)](https://solved.ac/nayeon1031/)   <img src="http://mazandi.herokuapp.com/api?handle=nayeon1031&theme=Dark"/>
 
 
 
@@ -55,7 +55,8 @@
 <br>
 <h4> ** GitHub stats ** </h4>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoyan&show_icons=true&theme=react)</dd>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoyan&show_icons=true&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoyan](https://github.com/eoyan/github-readme-stats)
 
 
 
