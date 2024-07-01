@@ -13,7 +13,6 @@
     src="https://render.gitanimals.org/lines/eoyan?pet-id=587181348183179486"
     width="300"
     height="150"
-  
   />
 </a>
 
