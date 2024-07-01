@@ -32,7 +32,7 @@
 <br>
 <br>
 <br>
-<h1>  HITS  </h1>
+<h2>  HITS  </h2>
 <br>
 <br>
 <br>
@@ -43,7 +43,7 @@
 <br>
 <br>
 <br>
-<h1> Stacks </h1>
+<h2> Stacks </h2>
 <br>
 <br>
 <br>
@@ -55,7 +55,7 @@
 <br>
 <br>
 <br>
-<h1>  Solved.ac </h1>
+<h2>  Solved.ac </h2>
 <br>
 <br>
 <br>
@@ -66,7 +66,7 @@
 <br>
 <br>
 <br>
-<h1>  GitHub stats  </h1>
+<h2>  GitHub stats  </h2>
 <br>
 <br>
 <br>
