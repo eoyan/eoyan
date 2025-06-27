@@ -10,10 +10,9 @@
 
 <br>
 <br>
-<h4> ** Solved.ac ** </h4>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayeon1031)](https://solved.ac/nayeon1031/)   <img src="http://mazandi.herokuapp.com/api?handle=nayeon1031&theme=Dark"/>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayeon1031)](https://solved.ac/nayeon1031/)  ![Nayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoyan&show_icons=true&theme=great-gatsby)
 
 
 
